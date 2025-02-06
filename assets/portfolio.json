@@ -8,7 +8,9 @@
       "email": "skarthick.0809@gmail.com",
       "social": {
         "linkedin": "https://linkedin.com/in/yourusername",
-        "portfolio": "https://yourportfolio.com"
+        "portfolio": "https://karthicksekar-portfolio.netlify.app/",
+        "whatsapp":"https://wa.me/8072527106",
+        "instagram":"https://www.instagram.com/karthick___deepak/"
       }
     }
   },
@@ -56,14 +58,16 @@
   "experience": [
     {
       "company": "Renault Nissan Automotive India Pvt. Ltd.",
-      "location": "India",
+      "location": "Oragadam, Kancheepuram, ,Tamilnadu, India",
       "position": "Quality Control Inspector",
+      "roleDescription":"testing the color code of bumper and worked in quality control section.",
       "periodStart": "Jun 2019",
       "periodEnd": "Jul 2020",
       "projects": [
         {
           "name": "Bumper Quality Inspection",
           "description": "Comprehensive retailer management system for Tempur Sealy International",
+          "position":"Apprentice Trainee",
           "technologies": [],
           "highlights": [
             "Executed quality control inspections, achieving a 98% compliance rate with zero-defect standards",
@@ -75,14 +79,16 @@
     },
     {
       "company": "Customer Analytics Pvt. Ltd.",
-      "location": "India",
+      "location": "Gunindy, Chennai, Tamilnadu, India",
       "position": "Full Stack Developer",
+      "roleDescription":"Woked as a developer. Developed web app, mobile app, micro services, api, docker",
       "periodStart": "May 2021",
       "periodEnd": "Present",
       "projects": [
         {
           "name": "Tempur Sealy International (TSI)",
           "description": "Comprehensive retailer management system for Tempur Sealy International",
+          "position":"Web Developer",
           "technologies": [
             "Angular",
             ".NET Core",
@@ -91,7 +97,23 @@
           ],
           "highlights": [
             "Delivered a high-performance cross-platform application using .NET, Angular, and React Native, reducing app load times by 25%",
+            "Delivered a high-performance cross-platform application using .NET, Angular, and React Native, reducing app load times by 25%",
+            "Delivered a high-performance cross-platform application using .NET, Angular, and React Native, reducing app load times by 25%",
+            "Delivered a high-performance cross-platform application using .NET, Angular, and React Native, reducing app load times by 25%",
             "Engineered chatbot modules with AWS Lex and Lambda, increasing customer engagement by 40%",
+            "Engineered chatbot modules with AWS Lex and Lambda, increasing customer engagement by 40%",
+            "Engineered chatbot modules with AWS Lex and Lambda, increasing customer engagement by 40%",
+            "Engineered chatbot modules with AWS Lex and Lambda, increasing customer engagement by 40%",
+            "Engineered chatbot modules with AWS Lex and Lambda, increasing customer engagement by 40%",
+            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
+            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
+            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
+            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
+            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
+            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
+            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
+            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
+            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
             "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
             "Optimized database performance by 30% using Dapper and automated workflows with Azure Logic Apps"
           ],
@@ -102,6 +124,7 @@
         {
           "name": "Master Fluid Solutions (MFS) - Fluid Health System",
           "description": "Real-time IoT monitoring dashboard for industrial fluid health systems",
+          "position":"Web Developer",
           "technologies": [
             "React",
             ".NET Core",
@@ -120,6 +143,7 @@
         {
           "name": "Master Fluid Solutions (MFS) – FluidTrak IoT Integration",
           "description": "Real-time IoT monitoring dashboard for industrial fluid health systems",
+          "position":"React and Microservice",
           "technologies": [
             "React",
             ".NET Core",
@@ -138,6 +162,7 @@
         {
           "name": "Cecor – Metalworking Health Check System",
           "description": "Real-time IoT monitoring dashboard for industrial fluid health systems",
+          "position":"Full Stack Developer",
           "technologies": [
             "React",
             ".NET Core",
@@ -155,6 +180,7 @@
         {
           "name": "CA Central – Mobile App Development",
           "description": "Cross-platform mobile application for customer analytics",
+          "position":"Flutter Developer",
           "technologies": [
             "Flutter",
             "Firebase",
