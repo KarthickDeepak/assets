@@ -7,10 +7,10 @@
       "phone": "+91-8072527106",
       "email": "skarthick.0809@gmail.com",
       "social": {
-        "linkedin": "https://linkedin.com/in/yourusername",
+        "linkedin": "https://linkedin.com/in/karthick-s-3096791b3",
         "portfolio": "https://karthicksekar-portfolio.netlify.app/",
-        "whatsapp":"https://wa.me/8072527106",
-        "instagram":"https://www.instagram.com/karthick___deepak/"
+        "whatsapp": "https://wa.me/8072527106",
+        "instagram": "https://www.instagram.com/karthick___deepak/"
       }
     }
   },
@@ -18,15 +18,13 @@
     "https://raw.githubusercontent.com/KarthickDeepak/assets/main/assets/profiles/image_1738503089020_0.png",
     "https://raw.githubusercontent.com/KarthickDeepak/assets/main/assets/profiles/image_1738509507734_0.png"
   ],
-  "objective": "Results-driven Full Stack Developer with 4+ years of experience in Angular, React, .NET Core, and MS SQL. Proven track record of delivering scalable, high-quality solutions for global clients. Adept at cloud integration, API optimization, and IoT systems. Seeking to leverage my technical expertise and innovative mindset to drive impactful digital solutions.",
+  "objective": "Results-driven professional with 4 years and 11 months of experience, including 1 year in the mechanical engineering domain and 3 years 11 months in the IT field as a Full Stack Developer. Adept at building high-performance web and mobile applications, optimizing APIs, and leveraging cloud services to deliver scalable and secure digital solutions.",
   "about": {
     "keyPoints": [
-      "Hello! I'm Karthick Sekar, and I'm a Bachelor of Engineering in Mechanical Engineering graduate.<br/><br/>I have experience working in both the mobile and web development worlds, with a focus on frontend and backend development. I'm about creating beautiful, responsive websites that provide a great user experience.",
-      "I'm Karthick Sekar, and I'm a Bachelor of Engineering in Mechanical Engineering graduate.<br/><br/>I have experience working in both the mobile and web development worlds, with a focus on frontend and backend development. I'm about creating beautiful, responsive websites that provide a great user experience.",
-      "I'm Karthick Sekar, and I'm a Bachelor of Engineering in Mechanical Engineering graduate.<br/><br/>I have experience working in both the mobile and web development worlds, with a focus on frontend and backend development. I'm about creating beautiful, responsive websites that provide a great user experience.",
-      "I'm Karthick Sekar, and I'm a Bachelor of Engineering in Mechanical Engineering graduate.<br/><br/>I have experience working in both the mobile and web development worlds, with a focus on frontend and backend development. I'm about creating beautiful, responsive websites that provide a great user experience.",
-      "I'm Karthick Sekar, and I'm a Bachelor of Engineering in Mechanical Engineering graduate.<br/><br/>I have experience working in both the mobile and web development worlds, with a focus on frontend and backend development. I'm about creating beautiful, responsive websites that provide a great user experience.",
-      "I'm always looking for new challenges and opportunities to learn and grow as a developer. If you're interested in working together or have any questions, please don&apos;t hesitate to get in touch!🔗"
+      "Hello! I'm Karthick Sekar, a Bachelor of Engineering in Mechanical Engineering graduate with diverse experience spanning mechanical and IT fields.",
+      "In the IT domain, I specialize in creating scalable, secure, and user-friendly applications by leveraging frameworks like Angular, React, and .NET Core.",
+      "I bring strong expertise in backend integration, cloud solutions, and IoT systems, consistently focusing on quality and security.",
+      "With a results-driven approach, I thrive in delivering impactful solutions and learning new technologies."
     ]
   },
   "skills": {
@@ -42,9 +40,16 @@
       "MS SQL"
     ],
     "cloud": [
-      "AWS (Lambda, Lex, Kendra, Firebase)",
-      "Azure (Logic Apps, Service Bus, Managed Identity)",
-      "Firebase (Push notification, Crashlytics, Analytics)"
+      "Azure Logic Apps",
+      "Azure Service Bus",
+      "Azure Managed Identity",
+      "AWS Lambda",
+      "AWS Lex",
+      "AWS Kendra",
+      "AWS Firebase",
+      "Firebase Push notification",
+      "Firebase Crashlytics",
+      "Firebase Analytics"
     ],
     "tools": [
       "Docker",
@@ -58,20 +63,22 @@
   "experience": [
     {
       "company": "Renault Nissan Automotive India Pvt. Ltd.",
-      "location": "Oragadam, Kancheepuram, ,Tamilnadu, India",
+      "location": "Oragadam, Kancheepuram, Tamil Nadu, India",
       "position": "Quality Control Inspector",
-      "roleDescription":"testing the color code of bumper and worked in quality control section.",
+      "roleDescription": "Conducted quality control inspections for automotive components, ensuring zero-defect compliance.",
       "periodStart": "Jun 2019",
       "periodEnd": "Jul 2020",
       "projects": [
         {
           "name": "Bumper Quality Inspection",
-          "description": "Comprehensive retailer management system for Tempur Sealy International",
-          "position":"Apprentice Trainee",
+          "description": "Quality assurance for vehicle bumpers.",
+          "position": "Apprentice Trainee",
           "technologies": [],
           "highlights": [
-            "Executed quality control inspections, achieving a 98% compliance rate with zero-defect standards",
-            "Designed and managed Excel documentation systems, improving data tracking efficiency by 40%"
+            "Achieved a 98% compliance rate with zero-defect standards.",
+            "Improved data tracking efficiency by 40% through Excel documentation systems.",
+            "Streamlined inspection processes using automated templates for reporting.",
+            "Ensured accurate color code testing and compliance with manufacturing standards."
           ],
           "url": []
         }
@@ -79,120 +86,83 @@
     },
     {
       "company": "Customer Analytics Pvt. Ltd.",
-      "location": "Gunindy, Chennai, Tamilnadu, India",
+      "location": "Chennai, Tamil Nadu, India",
       "position": "Full Stack Developer",
-      "roleDescription":"Woked as a developer. Developed web app, mobile app, micro services, api, docker",
+      "roleDescription": "Developed web applications, mobile apps, APIs, and microservices for international clients. Specialized in cloud integration, IoT systems, and performance optimization.",
       "periodStart": "May 2021",
       "periodEnd": "Present",
       "projects": [
         {
           "name": "Tempur Sealy International (TSI)",
-          "description": "Comprehensive retailer management system for Tempur Sealy International",
-          "position":"Web Developer",
-          "technologies": [
-            "Angular",
-            ".NET Core",
-            "AWS",
-            "Power BI"
-          ],
+          "description": "Comprehensive retailer management system for Tempur Sealy International.",
+          "position": "Web Developer",
+          "technologies": ["Angular", ".NET Core", "AWS Lex", "AWS Lambda", "Azure Functions", "Power BI Integration"],
           "highlights": [
-            "Delivered a high-performance cross-platform application using .NET, Angular, and React Native, reducing app load times by 25%",
-            "Delivered a high-performance cross-platform application using .NET, Angular, and React Native, reducing app load times by 25%",
-            "Delivered a high-performance cross-platform application using .NET, Angular, and React Native, reducing app load times by 25%",
-            "Delivered a high-performance cross-platform application using .NET, Angular, and React Native, reducing app load times by 25%",
-            "Engineered chatbot modules with AWS Lex and Lambda, increasing customer engagement by 40%",
-            "Engineered chatbot modules with AWS Lex and Lambda, increasing customer engagement by 40%",
-            "Engineered chatbot modules with AWS Lex and Lambda, increasing customer engagement by 40%",
-            "Engineered chatbot modules with AWS Lex and Lambda, increasing customer engagement by 40%",
-            "Engineered chatbot modules with AWS Lex and Lambda, increasing customer engagement by 40%",
-            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
-            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
-            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
-            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
-            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
-            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
-            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
-            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
-            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
-            "Streamlined retailer operations by 20% through architecting modules like Retailer Onboarding and Power BI dashboards",
-            "Optimized database performance by 30% using Dapper and automated workflows with Azure Logic Apps"
+            "Developed a high-performance cross-platform application, reducing app load times by 25%.",
+            "Engineered chatbot modules using AWS Lex and Lambda, increasing customer engagement by 40%.",
+            "Architected retailer onboarding and data dashboards, streamlining operations by 20%.",
+            "Optimized database performance by 30% using Dapper and automated workflows with Azure Logic Apps.",
+            "Implemented secure API communication protocols adhering to OWASP Top 10 guidelines.",
+            "Ensured maintainable code structure using the Repository and Dependency Injection design patterns."
           ],
-          "url": [
-            "https://tsi-retailer.com"
-          ]
+          "url": ["https://tsi-retailer.com"]
         },
         {
           "name": "Master Fluid Solutions (MFS) - Fluid Health System",
-          "description": "Real-time IoT monitoring dashboard for industrial fluid health systems",
-          "position":"Web Developer",
-          "technologies": [
-            "React",
-            ".NET Core",
-            "Azure IoT Hub",
-            "SignalR"
-          ],
+          "description": "Real-time user and admin dashboard for industrial fluid health systems.",
+          "position": "Web Developer",
+          "technologies": ["Angular", ".NET Core", "SignalR"],
           "highlights": [
-            "Created APIs from scratch, reducing API response time by 40% ensuring robust security measures such as JWT, OWASP Top 10 guidelines, Manage Identity etc.",
-            "Worked extensively on the Angular-based admin application for a fluid health check system, focusing on creating role-based authorization for different user access levels and implemented lazy loading pages, which decreased page load times by 30%",
-            "Introduced a bulk upload feature via Azure Function Apps, saving over 20 hours of manual effort per week"
+            "Created APIs from scratch, reducing response time by 40% with robust security measures.",
+            "Implemented role-based authorization and lazy loading, decreasing page load times by 30%.",
+            "Worked as primary developer in developing dynamic angular component such as Grid, Dynamic forms. Also, worked in Client side authorization part.",
+            "Introduced bulk upload features, saving over 20 hours of manual effort per week.",
+            "Secured communication channels with JWT-based authentication.",
+            "Enhanced real-time data updates with SignalR for seamless user experience."
           ],
-          "url": [
-            "https://fluidtrak-demo.azurewebsites.net"
-          ]
+          "url": ["https://fluidtrak-demo.azurewebsites.net"]
         },
         {
-          "name": "Master Fluid Solutions (MFS) – FluidTrak IoT Integration",
-          "description": "Real-time IoT monitoring dashboard for industrial fluid health systems",
-          "position":"React and Microservice",
-          "technologies": [
-            "React",
-            ".NET Core",
-            "Azure IoT Hub",
-            "SignalR"
-          ],
+          "name": "Master Fluid Solutions (MFS) - FluidTrak IoT Integration",
+          "description": "Real-time IoT monitoring dashboard for fluid health systems.",
+          "position": "React and Microservice Developer",
+          "technologies": ["Docker",".NET Core", "MQLL Broker","React", "Azure IoT Hub", "SignalR"],
           "highlights": [
-            "Automated fluid health checks for over 100 industrial IoT devices using Docker, MQTT brokers, and Azure Service Bus, reducing manual monitoring costs by 25%",
-            "Developed a responsive Web App in React and .NET Rest API, improving system performance by 30% and reducing latency by 20%",
-            "Transitioned from SQLite to Azure Service Bus for data management, enabling support for 10x the previous data volume"
+            "Automated fluid health checks for over 100 IoT devices using Docker and MQTT brokers.",
+            "Developed a responsive web application, improving system performance by 30%.",
+            "Transitioned from SQLite to Azure Service Bus for enhanced data management.",
+            "Implemented microservices architecture for modular and scalable solutions.",
+            "Utilized Azure Service Bus to handle high-volume data streams with efficiency."
           ],
-          "url": [
-            "https://fluidtrak-demo.azurewebsites.net"
-          ]
+          "url": ["https://fluidtrak-demo.azurewebsites.net"]
         },
         {
-          "name": "Cecor – Metalworking Health Check System",
-          "description": "Real-time IoT monitoring dashboard for industrial fluid health systems",
-          "position":"Full Stack Developer",
-          "technologies": [
-            "React",
-            ".NET Core",
-            "Azure IoT Hub",
-            "SignalR"
-          ],
+          "name": "Cecor - Metalworking Health Check System",
+          "description": "IoT monitoring system for industrial fluids.",
+          "position": "Full Stack Developer",
+          "technologies": ["React", ".NET Core", "Azure IoT Hub", "SignalR"],
           "highlights": [
-            "Developed and optimized Machine, Task, and User Management modules, improving data retrieval time by 20%, and enhanced user account security by implementing Azure B2C authentication, leading to a 15% reduction in login issues",
-            "Transitioned eCommerce operations to Shopify, increasing online sales by 25% within three months"
+            "Optimized data retrieval by 20% through efficient task and user management modules.",
+            "Enhanced user account security using Azure B2C authentication.",
+            "Increased online sales by 25% after transitioning operations to Shopify.",
+            "Implemented secure role-based access controls to protect sensitive data.",
+            "Designed reusable components for improved development efficiency."
           ],
-          "url": [
-            "https://cecor-metalworking.com"
-          ]
+          "url": ["https://cecor-metalworking.com"]
         },
         {
-          "name": "CA Central – Mobile App Development",
-          "description": "Cross-platform mobile application for customer analytics",
-          "position":"Flutter Developer",
-          "technologies": [
-            "Flutter",
-            "Firebase",
-            "Azure Functions"
-          ],
+          "name": "CA Central - Mobile App Development",
+          "description": "Cross-platform mobile application for customer analytics.",
+          "position": "Flutter Developer",
+          "technologies": ["Flutter", "Firebase", "Azure Functions"],
           "highlights": [
-            "Designed a mobile application with Flutter, achieving 98% uptime and enhancing push notifications for 500 users",
-            "Engineered Azure Function Apps for dynamic notifications, boosting user engagement by 25%"
+            "Designed a mobile application with 98% uptime, improving user engagement.",
+            "Engineered Azure Function Apps for dynamic notifications, boosting engagement by 25%.",
+            "Integrated Firebase Analytics for detailed user insights and tracking.",
+            "Implemented crash reporting and automated notification triggers.",
+            "Improved app responsiveness by optimizing network calls." 
           ],
-          "url": [
-            "https://play.google.com/store/apps/ca-central"
-          ]
+          "url": ["https://play.google.com/store/apps/ca-central"]
         }
       ]
     }
@@ -214,8 +184,8 @@
     }
   ],
   "credential": {
-    "userName": "karthick7016",
-    "password": "1234567890"
+    "userName": "skkarthick0008@gmail.com",
+    "password": "U2FsdGVkX1+fU0AUNmiV9KK9VX/b8kGhPxyb8KrhZ5e773U8mCjIqiw7vRyiDmO4"
   },
   "securityQuestions": [
     {
